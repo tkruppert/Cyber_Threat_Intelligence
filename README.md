@@ -10,6 +10,8 @@
 | Putter Panda | |
 | CrowdStrike| [ CrowdStrike Intelligence Report: Putter Panda ](https://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf) |
 | MITRE| [Putter Panda: MITRE ATT&CK ](https://attack.mitre.org/groups/G0024/) |
-
+| | |
+| APT3 | |
+| Mandiant| [ Operation Double Tap ](https://www.mandiant.com/resources/blog/operation-doubletap) |
 
 ### [](#methodology) Models and Methodology
