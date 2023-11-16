@@ -4,22 +4,24 @@
 | | China |
 | --- | --- |
 | | APT-1 |
-| Mandiant | [APT1: Exposing One of China's Cyber Espionage Units ](https://www.mandiant.com/sites/default/files/2021-09/mandiant-apt1-report.pdf) |
-| MITRE | [APT1: MITRE ATT&CK ](https://attack.mitre.org/groups/G0006/) |
+| Mandiant | [APT-1: Exposing One of China's Cyber Espionage Units ](https://www.mandiant.com/sites/default/files/2021-09/mandiant-apt1-report.pdf) |
+| MITRE | [APT-1: MITRE ATT&CK ](https://attack.mitre.org/groups/G0006/) |
 | | |
-| | Putter Panda |
+| | APT-2 |
 | CrowdStrike | [ CrowdStrike Intelligence Report: Putter Panda ](https://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf) |
 | MITRE | [Putter Panda: MITRE ATT&CK ](https://attack.mitre.org/groups/G0024/) |
 | | |
-| | APT3 |
+| | APT-3 |
 | Mandiant | [ Operation Clandestine Wolf – Adobe Flash Zero-Day in APT3 Phishing Campaign ](https://www.mandiant.com/resources/blog/operation-clandestine-wolf-adobe-flash-zero-day) |
 | Mandiant | [ Operation Double Tap ](https://www.mandiant.com/resources/blog/operation-doubletap) |
-| MITRE | [ APT3 Adversary Emulation Plan ](https://attack.mitre.org/docs/APT3_Adversary_Emulation_Plan.pdf) |
-| MITRE | [APT3: MITRE ATT&CK ](https://attack.mitre.org/groups/G0022/) |
+| MITRE | [ APT-3 Adversary Emulation Plan ](https://attack.mitre.org/docs/APT3_Adversary_Emulation_Plan.pdf) |
+| MITRE | [APT-3: MITRE ATT&CK ](https://attack.mitre.org/groups/G0022/) |
 | Recorded Future | [ Recorded Future Research Concludes Chinese Ministry of State Security Behind APT3 ](https://www.recordedfuture.com/chinese-mss-behind-apt3) |
 | | |
-| | Sykipot|
+| | APT-4 |
+| AT&T| [ Are the Sykipot’s authors obsessed with next generation US drones? ](https://cybersecurity.att.com/blogs/labs-research/are-the-sykipots-authors-obsessed-with-next-generation-us-drones) |
+| AT&T| [ Sykipot is back ](https://cybersecurity.att.com/blogs/labs-research/sykipot-is-back) |
 | SANS | [ Detailed Analysis Of Sykipot (Smartcard Proxy Variant) ](https://sansorg.egnyte.com/dl/aeWhtU8PVW) |
-
+| Trend Micro | [ SYKIPOT: Threat Encyclopedia ](https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/SYKIPOT) |
 
 ### [](#methodology) Models and Methodology
