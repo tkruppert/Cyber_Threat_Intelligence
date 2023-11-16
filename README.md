@@ -17,5 +17,9 @@
 | MITRE | [ APT3 Adversary Emulation Plan ](https://attack.mitre.org/docs/APT3_Adversary_Emulation_Plan.pdf) |
 | MITRE | [APT3: MITRE ATT&CK ](https://attack.mitre.org/groups/G0022/) |
 | Recorded Future | [ Recorded Future Research Concludes Chinese Ministry of State Security Behind APT3 ](https://www.recordedfuture.com/chinese-mss-behind-apt3) |
+| | |
+| | Sykipot|
+| SANS | [ Detailed Analysis Of Sykipot (Smartcard Proxy Variant) ](https://sansorg.egnyte.com/dl/aeWhtU8PVW) |
+
 
 ### [](#methodology) Models and Methodology
