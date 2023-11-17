@@ -23,5 +23,9 @@
 | AT&T| [ Sykipot is back ](https://cybersecurity.att.com/blogs/labs-research/sykipot-is-back) |
 | SANS | [ Detailed Analysis Of Sykipot (Smartcard Proxy Variant) ](https://sansorg.egnyte.com/dl/aeWhtU8PVW) |
 | Trend Micro | [ SYKIPOT: Threat Encyclopedia ](https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/SYKIPOT) |
+| | |
+| | APT-5 |
+| NSA | [ APT5: Citrix ADC Threat Hunting Guidance ](https://media.defense.gov/2022/Dec/13/2003131586/-1/-1/0/CSA-APT5-CITRIXADC-V1.PDF) |
+| FireEye | [ SouthEast Asia: An Evolving Cyber Threat Landscape ](https://paper.bobylive.com/Security/APT_Report/rpt-southeast-asia-threat-landscape.pdf) |
 
 ### [](#methodology) Models and Methodology
