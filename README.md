@@ -2,7 +2,7 @@
 
 ### [](#apts) Advanced Persistent Threats
 
-Note: Attribution is hard and each entity may only see part of a groups activity. These groupings may change as more information becomes available but are listed to the best of my knowledge at the time of creation.
+Note: Attribution is hard and each entity may only see part of a group's activity. These groupings may change as more information becomes available but are listed to the best of my knowledge at the time of creation.
 
 | | China |
 | --- | --- |
