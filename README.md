@@ -7,7 +7,7 @@
 | Mandiant | [APT-1: Exposing One of China's Cyber Espionage Units ](https://www.mandiant.com/sites/default/files/2021-09/mandiant-apt1-report.pdf) |
 | MITRE | [APT-1: MITRE ATT&CK ](https://attack.mitre.org/groups/G0006/) |
 | | |
-| | Putter Panda |
+| | APT-2 |
 | CrowdStrike | [ CrowdStrike Intelligence Report: Putter Panda ](https://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf) |
 | MITRE | [Putter Panda: MITRE ATT&CK ](https://attack.mitre.org/groups/G0024/) |
 | | |
@@ -29,7 +29,11 @@
 | FireEye | [ SouthEast Asia: An Evolving Cyber Threat Landscape ](https://paper.bobylive.com/Security/APT_Report/rpt-southeast-asia-threat-landscape.pdf) |
 | | |
 | | APT-10 |
-| US DoJ | [ Two Chinese Hackers Associated With the Ministry of State Security Charged with Global Computer Intrusion Campaigns Targeting Intellectual Property and Confidential Business Information](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
+| CrowdStrike | [ Two Birds, One Stone Panda ](https://www.crowdstrike.com/blog/two-birds-one-stone-panda/) |
+| CYWARE | [ APT10: A Chinese Threat on a Global Espionage Mission ](https://cyware.com/resources/research-and-analysis/apt10-a-chinese-threat-on-a-global-espionage-mission-56fe) |
+| MITRE | [menuPass: MITRE ATT&CK ](https://attack.mitre.org/groups/G0045/) |
+| PWC | [ Operation Cloud Hopper ](https://www.pwc.co.uk/cyber-security/pdf/pwc-uk-operation-cloud-hopper-report-april-2017.pdf) |
+| US DoJ | [ Two Chinese Hackers Associated With the Ministry of State Security Charged ](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
 
 
 
