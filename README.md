@@ -29,7 +29,11 @@
 | FireEye | [ SouthEast Asia: An Evolving Cyber Threat Landscape ](https://paper.bobylive.com/Security/APT_Report/rpt-southeast-asia-threat-landscape.pdf) |
 | | |
 | | APT-10 |
-| US DoJ | [ Two Chinese Hackers Associated With the Ministry of State Security Charged with Global Computer Intrusion Campaigns Targeting Intellectual Property and Confidential Business Information](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
+| CrowdStrike | [ Two Birds, One Stone Panda ](https://www.crowdstrike.com/blog/two-birds-one-stone-panda/) |
+| CYWARE | [ APT10: A Chinese Threat on a Global Espionage Mission ](https://cyware.com/resources/research-and-analysis/apt10-a-chinese-threat-on-a-global-espionage-mission-56fe) |
+| MITRE | [menuPass: MITRE ATT&CK ](https://attack.mitre.org/groups/G0045/) |
+| PWC | [ Operation Cloud Hopper ](https://www.pwc.co.uk/cyber-security/pdf/pwc-uk-operation-cloud-hopper-report-april-2017.pdf) |
+| US DoJ | [ Two Chinese Hackers Associated With the Ministry of State Security Charged ](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
 
 
 
