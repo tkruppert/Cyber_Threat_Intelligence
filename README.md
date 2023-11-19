@@ -41,7 +41,10 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 
 | | Democratic People's Republic of Korea |
 | --- | --- |
+| | APT-38 |
+| FireEye | [ APT38: Un-usual Suspects ](https://services.google.com/fh/files/misc/apt38-un-usual-suspects.pdf) |
 | | APT-43 |
-| Mandiant | [APT43: North Korean Group Uses Cybercrime to Fund Espionage Operations ](https://services.google.com/fh/files/misc/apt43-report-en.pdf) |
+| Mandiant | [ APT43: North Korean Group Uses Cybercrime to Fund Espionage Operations ](https://services.google.com/fh/files/misc/apt43-report-en.pdf) |
+| | |
 
 ### [](#methodology) Models and Methodology
