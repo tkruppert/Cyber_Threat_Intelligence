@@ -37,8 +37,10 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 | MITRE | [menuPass: MITRE ATT&CK ](https://attack.mitre.org/groups/G0045/) |
 | PWC | [ Operation Cloud Hopper ](https://www.pwc.co.uk/cyber-security/pdf/pwc-uk-operation-cloud-hopper-report-april-2017.pdf) |
 | US DoJ | [ Two Chinese Hackers Associated With the Ministry of State Security Charged ](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
-
-
-
+| | |
+| | Democratic People's Republic of Korea |
+| --- | --- |
+| | APT-43 |
+| Mandiant | [APT43: North Korean Group Uses Cybercrime to Fund Espionage Operations ](https://services.google.com/fh/files/misc/apt43-report-en.pdf) |
 
 ### [](#methodology) Models and Methodology
