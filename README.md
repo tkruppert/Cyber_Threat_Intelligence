@@ -43,6 +43,8 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 | --- | --- |
 | | APT-38 |
 | FireEye | [ APT38: Un-usual Suspects ](https://services.google.com/fh/files/misc/apt38-un-usual-suspects.pdf) |
+| Recorded Future | [ North Korea-Aligned TAG-71 Spoofs Financial Institutions in Asia and US ](https://go.recordedfuture.com/hubfs/reports/cta-2023-0606.pdf) |
+| | |
 | | APT-43 |
 | Mandiant | [ APT43: North Korean Group Uses Cybercrime to Fund Espionage Operations ](https://services.google.com/fh/files/misc/apt43-report-en.pdf) |
 | | |
