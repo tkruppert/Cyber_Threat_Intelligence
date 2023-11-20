@@ -38,6 +38,9 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 | PWC | [ Operation Cloud Hopper ](https://www.pwc.co.uk/cyber-security/pdf/pwc-uk-operation-cloud-hopper-report-april-2017.pdf) |
 | US DoJ | [ Two Chinese Hackers Associated With the Ministry of State Security Charged ](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
 | | |
+| | APT-30 |
+| FireEye | [ APT30 and the Mechanics of a Long-Running Cyber Espionage Operation ](https://services.google.com/fh/files/misc/apt30-and-the-mechanics-of-a-long-running-cyber-espionage-operation.pdf) |
+| | |
 
 | | Democratic People's Republic of Korea |
 | --- | --- |
