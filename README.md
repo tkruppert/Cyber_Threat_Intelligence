@@ -54,5 +54,9 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 | | APT-28 |
 | FireEye | [ APT28: At the Center of the Storm ](https://services.google.com/fh/files/misc/apt28-at-the-center-of-the-storm.pdf) |
 | | |
+| | APT-29 |
+| FireEye | [ HammerToss: Stealthy Tactics Define a Russian Cyber Threat Group ](https://www.mandiant.com/sites/default/files/2021-09/rpt-apt29-hammertoss-1-1.pdf) |
+| | |
+
 
 ### [](#methodology) Models and Methodology
