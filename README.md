@@ -23,7 +23,7 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 | | |
 | | APT-4 |
 | AT&T| [ Are the Sykipot’s authors obsessed with next generation US drones? ](https://cybersecurity.att.com/blogs/labs-research/are-the-sykipots-authors-obsessed-with-next-generation-us-drones) |
-| AT&T| [ Sykipot is back ](https://cybersecurity.att.com/blogs/labs-research/sykipot-is-back) |
+| AT&T | [ Sykipot is back ](https://cybersecurity.att.com/blogs/labs-research/sykipot-is-back) |
 | SANS | [ Detailed Analysis Of Sykipot (Smartcard Proxy Variant) ](https://sansorg.egnyte.com/dl/aeWhtU8PVW) |
 | Trend Micro | [ SYKIPOT: Threat Encyclopedia ](https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/SYKIPOT) |
 | | |
@@ -39,7 +39,12 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 | US DoJ | [ Two Chinese Hackers Associated With the Ministry of State Security Charged ](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
 | | |
 | | APT-30 |
-| FireEye | [ APT30 and the Mechanics of a Long-Running Cyber Espionage Operation ](https://services.google.com/fh/files/misc/apt30-and-the-mechanics-of-a-long-running-cyber-espionage-operation.pdf) |
+| FireEye | [ APT30 and the Mechanics of a Long-Running Cyber Espionage Operation ](| | |
+| | APT-4 |
+| AT&T| [ Are the Sykipot’s authors obsessed with next generation US drones? ](https://cybersecurity.att.com/blogs/labs-research/are-the-sykipots-authors-obsessed-with-next-generation-us-drones) |
+| | |
+| | APT-41 |
+| Mandiant | [ APT41: A Dual Espionage and Cyber Crime Operation ](https://www.mandiant.com/sites/default/files/2022-02/rt-apt41-dual-operation.pdf) |
 | | |
 
 | | Democratic People's Republic of Korea |
