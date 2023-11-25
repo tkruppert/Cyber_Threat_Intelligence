@@ -57,6 +57,12 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 | Mandiant | [ APT43: North Korean Group Uses Cybercrime to Fund Espionage Operations ](https://services.google.com/fh/files/misc/apt43-report-en.pdf) |
 | | |
 
+| | Islamic Republic of Iran|
+| --- | --- |
+| | APT-42 |
+| Mandiant | [ APT42: Crooked Charms, Cons and Compromises ](https://services.google.com/fh/files/misc/apt42-crooked-charms-cons-and-compromises.pdf) |
+| | |
+
 | | Russian Federation |
 | --- | --- |
 | | APT-28 |
