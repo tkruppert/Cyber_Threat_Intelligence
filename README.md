@@ -39,7 +39,8 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 | US DoJ | [ Two Chinese Hackers Associated With the Ministry of State Security Charged ](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
 | | |
 | | APT-30 |
-| FireEye | [ APT30 and the Mechanics of a Long-Running Cyber Espionage Operation ](| | |
+| FireEye | [ APT30 and the Mechanics of a Long-Running Cyber Espionage Operation ](https://services.google.com/fh/files/misc/apt30-and-the-mechanics-of-a-long-running-cyber-espionage-operation.pdf) |
+| | |
 | | APT-4 |
 | AT&T| [ Are the Sykipot’s authors obsessed with next generation US drones? ](https://cybersecurity.att.com/blogs/labs-research/are-the-sykipots-authors-obsessed-with-next-generation-us-drones) |
 | | |
