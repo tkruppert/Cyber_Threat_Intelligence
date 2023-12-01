@@ -73,5 +73,8 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 | FireEye | [ HammerToss: Stealthy Tactics Define a Russian Cyber Threat Group ](https://www.mandiant.com/sites/default/files/2021-09/rpt-apt29-hammertoss-1-1.pdf) |
 | | |
 
+| | Financially Motivated Groups |
+| --- | --- |
+
 
 ### [](#methodology) Models and Methodology
