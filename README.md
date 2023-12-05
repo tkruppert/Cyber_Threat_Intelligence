@@ -79,6 +79,8 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 
 | | Financially Motivated Groups |
 | --- | --- |
-
+| | FIN10 |
+| FireEye | [ FIN10: Anatomy of a Cyber Extortion Operation ](https://www.mandiant.com/sites/default/files/2021-09/rpt-fin10-2.pdf) |
+| | |
 
 ### [](#methodology) Models and Methodology
