@@ -7,18 +7,18 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 | | China |
 | --- | --- |
 | | APT-1 |
-| Mandiant | [APT-1: Exposing One of China's Cyber Espionage Units ](https://www.mandiant.com/sites/default/files/2021-09/mandiant-apt1-report.pdf) |
-| MITRE | [APT-1: MITRE ATT&CK ](https://attack.mitre.org/groups/G0006/) |
+| Mandiant | [ APT-1: Exposing One of China's Cyber Espionage Units ](https://www.mandiant.com/sites/default/files/2021-09/mandiant-apt1-report.pdf) |
+| MITRE | [ APT-1: MITRE ATT&CK ](https://attack.mitre.org/groups/G0006/) |
 | | |
 | | APT-2 |
 | CrowdStrike | [ CrowdStrike Intelligence Report: Putter Panda ](https://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf) |
-| MITRE | [Putter Panda: MITRE ATT&CK ](https://attack.mitre.org/groups/G0024/) |
+| MITRE | [ Putter Panda: MITRE ATT&CK ](https://attack.mitre.org/groups/G0024/) |
 | | |
 | | APT-3 |
 | Mandiant | [ Operation Clandestine Wolf – Adobe Flash Zero-Day in APT3 Phishing Campaign ](https://www.mandiant.com/resources/blog/operation-clandestine-wolf-adobe-flash-zero-day) |
 | Mandiant | [ Operation Double Tap ](https://www.mandiant.com/resources/blog/operation-doubletap) |
 | MITRE | [ APT-3 Adversary Emulation Plan ](https://attack.mitre.org/docs/APT3_Adversary_Emulation_Plan.pdf) |
-| MITRE | [APT-3: MITRE ATT&CK ](https://attack.mitre.org/groups/G0022/) |
+| MITRE | [ APT-3: MITRE ATT&CK ](https://attack.mitre.org/groups/G0022/) |
 | Recorded Future | [ Recorded Future Research Concludes Chinese Ministry of State Security Behind APT3 ](https://www.recordedfuture.com/chinese-mss-behind-apt3) |
 | | |
 | | APT-4 |
@@ -34,7 +34,7 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 | | APT-10 |
 | CrowdStrike | [ Two Birds, One Stone Panda ](https://www.crowdstrike.com/blog/two-birds-one-stone-panda/) |
 | CYWARE | [ APT10: A Chinese Threat on a Global Espionage Mission ](https://cyware.com/resources/research-and-analysis/apt10-a-chinese-threat-on-a-global-espionage-mission-56fe) |
-| MITRE | [menuPass: MITRE ATT&CK ](https://attack.mitre.org/groups/G0045/) |
+| MITRE | [ menuPass: MITRE ATT&CK ](https://attack.mitre.org/groups/G0045/) |
 | PWC | [ Operation Cloud Hopper ](https://www.pwc.co.uk/cyber-security/pdf/pwc-uk-operation-cloud-hopper-report-april-2017.pdf) |
 | US DoJ | [ Two Chinese Hackers Associated With the Ministry of State Security Charged ](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
 | | |
@@ -75,6 +75,18 @@ Note: Attribution is hard and each entity may only see part of a group's activit
 | | |
 | | APT-29 |
 | FireEye | [ HammerToss: Stealthy Tactics Define a Russian Cyber Threat Group ](https://www.mandiant.com/sites/default/files/2021-09/rpt-apt29-hammertoss-1-1.pdf) |
+| | |
+
+| | Socialist Republic of Vietnam |
+| --- | --- |
+| | APT-32 |
+| ATTACKIQ | [ Emulating the Southeast Asian Adversary OceanLotus ](https://www.attackiq.com/2024/04/16/emulating-oceanlotus/) |
+| Mandiant | [ Cyber Espionage is Alive and Well: APT32 and the Threat to Global Corporations ](https://cloud.google.com/blog/topics/threat-intelligence/cyber-espionage-apt32/) |
+| Mandiant | [ Vietnamese Threat Actors APT32 Targeting Wuhan Government and Chinese Ministry of Emergency Management in Latest Example of COVID-19 Related Espionage ](https://cloud.google.com/blog/topics/threat-intelligence/apt32-targeting-chinese-government-in-covid-19-related-espionage/) |
+| MITRE | [ APT-32: MITRE ATT&CK ](https://attack.mitre.org/groups/G0050/) |
+| PaloAlto | [ Tracking OceanLotus’ new Downloader, KerrDown ](https://unit42.paloaltonetworks.com/tracking-oceanlotus-new-downloader-kerrdown/) |
+| RecordedFuture | [ New APT32 Malware Campaign Targets Cambodian Government ](https://go.recordedfuture.com/hubfs/reports/cta-2020-1110.pdf) |
+| SentinelOne | [ APT32 Multi-stage macOS Trojan Innovates on Crimeware Scripting Technique ](https://www.sentinelone.com/labs/apt32-multi-stage-macos-trojan-innovates-on-crimeware-scripting-technique/) |
 | | |
 
 | | Financially Motivated Groups |
